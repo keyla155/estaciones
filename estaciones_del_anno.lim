@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>1E5A60</corfondo>
+        <corbanda>275356</corbanda>
+        <cornavega>275356</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Estaciones del año</titulo>
+        <autor>Keyla Escobar</autor>
+        <logo>logo.jpg</logo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="SONIDO_RESPUESTA_CORRECTA.mp3" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <imaxe>logo.jpg</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="46">Las ESTACIONES DEL AÑO<br>
+<br>
+</font><font color="#080000" face="Arial" size="18">Las estaciones son causadas por la inclinación del eje de la Tierra mientras orbita alrededor del Sol. Esta inclinación hace que diferentes partes del planeta reciban diferentes cantidades de luz solar a lo largo del año, lo que provoca los cambios estacionales.<br>
+Es importante notar que las estaciones son diferentes dependiendo del hemisferio. Cuando es verano en el hemisferio norte, es invierno en el hemisferio sur.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>4</tipo>
+              <modo>2</modo>
+              <sopa enun="chaqueta.jpg">chaqueta</sopa>
+              <sopa enun="pngtree-cartoon-illustration-of-the-fall-season-picture-image_3166905.jpg">otoño</sopa>
+              <sopa enun="pngtree-cartoon-spring-natural-landscape-background-picture-image_1339182.jpg">primavera</sopa>
+              <sopa enun="pngtree-winter-beautiful-cartoon-illustration-picture-image_2445979.jpg">invierno</sopa>
+              <enunciado>0</enunciado>
+              <colorea>1</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="3" >
+              <tipo>14</tipo>
+              <peza imaxe="chaqueta.jpg" texto="" son="">pngtree-winter-beautiful-cartoon-illustration-picture-image_2445979.jpg</peza>
+              <peza imaxe="helado.jpg" texto="" son="">beach-summer-colored-cartoon-illustration-free-vector.jpg</peza>
+              <peza imaxe="157257989-ilustraci_on-de-vector-de-dibujos-animados-de-paraguas-predisennadas-de-sombrilla-aislado-en-blanco.jpg" texto="" son="">pngtree-cartoon-spring-natural-landscape-background-picture-image_1339182.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>51</tipo>
+              <valor>2</valor>
+              <peza imaxe="pngtree-cartoon-illustration-of-the-fall-season-picture-image_3166905.jpg">1</peza>
+              <peza imaxe="pngtree-cartoon-spring-natural-landscape-background-picture-image_1339182.jpg">2</peza>
+              <forma>1</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>3</tipo>
+              <imaxe>hojas.jpg</imaxe>
+              <filas>4</filas>
+              <columnas>2</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>
